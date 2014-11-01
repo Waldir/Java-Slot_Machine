@@ -20,7 +20,7 @@ public class SlotMachine extends JFrame
 	/**
 	 * Constructor
 	 */
-	public SlotMachineTest( )
+	public SlotMachine( )
 	{
 		super( "Slot Machine" ); 							// Set the title bar text.
 		setDefaultCloseOperation( JFrame.EXIT_ON_CLOSE ); 	// Specify what happens when the close button is clicked.
